@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "hediet.vscode-drawio",
+    "bierner.markdown-mermaid",
+    "wayou.vscode-todo-highlight",
+    "vscode-icons-team.vscode-icons",
+    "redhat.vscode-yaml",
+    "ms-vscode-remote.remote-containers"
+  ]
+}
